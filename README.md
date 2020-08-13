@@ -1,2 +1,4 @@
-# app
-teste de git com rails
+# Primeiro repositório com um projeto que deu certo em 
+
+Meu primeiro versionamento
+
